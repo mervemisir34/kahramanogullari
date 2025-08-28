@@ -6,6 +6,6 @@ export const metadata = {
     title: 'Devam Eden Projeler | Kahramanoğulları İnşaat',
     description: 'Şu anda üzerinde çalıştığımız inşaat projelerimizi inceleyin.',
     type: 'website',
-    url: 'https://kahramanmimar.vercel.app/devam-eden-projeler',
+    url: 'https://www.kahramanogullari.com/devam-eden-projeler',
   },
 };

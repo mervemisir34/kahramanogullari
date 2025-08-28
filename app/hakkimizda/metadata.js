@@ -6,6 +6,6 @@ export const metadata = {
     title: 'Hakkımızda | Kahramanoğulları İnşaat',
     description: '30+ yıllık deneyimimizle inşaat sektöründe güvenilir hizmet.',
     type: 'website',
-    url: 'https://kahramanmimar.vercel.app/hakkimizda',
+    url: 'https://www.kahramanogullari.com/hakkimizda',
   },
 };

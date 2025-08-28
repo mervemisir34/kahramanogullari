@@ -6,6 +6,6 @@ export const metadata = {
     title: 'İletişim | Kahramanoğulları İnşaat',
     description: 'Projeniz için bizimle iletişime geçin. Ücretsiz danışmanlık hizmeti.',
     type: 'website',
-    url: 'https://kahramanmimar.vercel.app/iletisim',
+    url: 'https://www.kahramanogullari.com/iletisim',
   },
 };

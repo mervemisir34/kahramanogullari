@@ -2,7 +2,7 @@ import connectDB from '@/lib/mongodb';
 import Project from '@/lib/models/project';
 
 export default async function sitemap() {
-  const baseUrl = 'https://kahramanmimar.vercel.app';
+  const baseUrl = 'https://www.kahramanogullari.com/';
   
   // Static pages
   const staticPages = [

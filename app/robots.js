@@ -5,6 +5,6 @@ export default function robots() {
       allow: '/',
       disallow: ['/admin/', '/api/'],
     },
-    sitemap: 'https://kahramanmimar.vercel.app/sitemap.xml',
+    sitemap: 'https://www.kahramanogullari.com/',
   };
 }
